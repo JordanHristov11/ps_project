@@ -1,0 +1,28 @@
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\bin\Debug\UserLogin.exe.config
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\bin\Debug\UserLogin.exe
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\bin\Debug\UserLogin.pdb
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\obj\Debug\UserLogin.csproj.AssemblyReference.cache
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\obj\Debug\UserLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\obj\Debug\UserLogin.exe
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\obj\Debug\UserLogin.pdb
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\bin\Debug\Logs.txt
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\bin\Debug\EntityFramework.dll
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\bin\Debug\EntityFramework.xml
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\bin\Debug\Logs.txt
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\bin\Debug\UserLogin.exe.config
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\bin\Debug\UserLogin.exe
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\bin\Debug\UserLogin.pdb
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\bin\Debug\EntityFramework.dll
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\bin\Debug\EntityFramework.SqlServer.dll
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\bin\Debug\EntityFramework.xml
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\bin\Debug\EntityFramework.SqlServer.xml
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\obj\Debug\UserLogin.csproj.AssemblyReference.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\obj\Debug\UserLogin.csproj.SuggestedBindingRedirects.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\obj\Debug\UserLogin.exe
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\UserLogin\obj\Debug\UserLogin.pdb

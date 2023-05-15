@@ -1,0 +1,81 @@
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\bin\Debug\Logs.txt
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\bin\Debug\UserLogin.exe
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\bin\Debug\UserLogin.pdb
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.AssemblyReference.cache
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\App.g.cs
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\MainWindow.baml
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSys.g.cs
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSys.baml
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\bin\Debug\EntityFramework.dll
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\bin\Debug\EntityFramework.xml
+C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\bin\Debug\Logs.txt
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\bin\Debug\EntityFramework.dll
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\bin\Debug\UserLogin.exe
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\bin\Debug\UserLogin.pdb
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\bin\Debug\EntityFramework.xml
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.AssemblyReference.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.SuggestedBindingRedirects.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSys.g.cs
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\App.g.cs
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\MainWindow.baml
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSys.baml
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+E:\UNI\6 semestur\PS\psproject\PS_44_Simeon\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\bin\Debug\Logs.txt
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\bin\Debug\EntityFramework.dll
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\bin\Debug\UserLogin.exe
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\bin\Debug\UserLogin.pdb
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\bin\Debug\EntityFramework.xml
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.AssemblyReference.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.SuggestedBindingRedirects.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSys.g.cs
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\App.g.cs
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\MainWindow.baml
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSys.baml
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+E:\UNI\6 semestur\PS\psproject\PS_44_Yordan\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb

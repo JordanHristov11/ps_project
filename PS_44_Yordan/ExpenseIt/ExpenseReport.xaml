@@ -1,0 +1,62 @@
+﻿<Window x:Class="ExpenseIt.ExpenseReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExpenseIt"
+        mc:Ignorable="d"
+        Title="ExpenseIt - View Expense" Height="450" Width="800">
+    <Grid Margin="10,10,0,10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="0">
+            <Grid.Background>
+                <ImageBrush ImageSource="C:\Users\simeon\OneDrive - Telerik Academy\University\3rd course\PS projects\PS_44_Simeon\ExpenseIt\watermark.png.jpeg"/>
+            </Grid.Background>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Label Content="Expense Report For:" Grid.Row="0" FontSize="22" FontWeight="Bold"/>
+            <Label Content="Name: " Grid.Row="1" Grid.Column="0" FontSize="18" FontWeight="Bold"/>
+            <Label Content="{Binding Path=Name}" Grid.Column="0" FontSize="15" Margin="70,0,29,0" Height="29" VerticalAlignment="Center" Grid.Row="1"/>
+            <Label Content="Department: " Grid.Row="2" FontSize="18" FontWeight="Bold"/>
+            <Label Content="{Binding Path=Department}" FontSize="15" Margin="114,5,10,5" Grid.Row="2" RenderTransformOrigin="0.5,0.5" >
+                <Label.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleY="1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Label.RenderTransform>
+            </Label>
+            <Grid Grid.Row="3">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <DataGrid Grid.Column="0" Grid.Row="0" ItemsSource="{Binding Path=Expenses}" AutoGenerateColumns="False" RowHeaderWidth="0" Grid.ColumnSpan="2" Margin="0,0,10,0" Grid.RowSpan="2" >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="ExpenseType" Binding="{Binding Path=ExpenseType}" />
+                        <DataGridTextColumn Header="Amount" Binding="{Binding Path=ExpenseAmount}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <!-- Примерни данни за разходи -->
+
+            </Grid>
+        </Grid>
+    </Grid>
+
+</Window>

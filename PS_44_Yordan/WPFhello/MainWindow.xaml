@@ -1,0 +1,19 @@
+﻿<Window x:Class="WPFhello.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFhello"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="___Hello_WPF_" Content="Hello WPF!&#xD;&#xA;" HorizontalAlignment="Left" Margin="86,61,0,0" VerticalAlignment="Top" Height="99" Width="162" FontFamily="Arial Black" FontSize="18"/>
+        <ListBox x:Name="peopleListBox" Margin="493,94,45,217" SelectionChanged="peopleListBox_SelectionChanged">
+            <ListBoxItem Content="Mike" Selected="ListBoxItem_Selected"/>
+            <ListBoxItem Content="Lisa"/>
+            <ListBoxItem Content="John"/>
+            <ListBoxItem Content="Mary"/>
+        </ListBox>
+        <Button Content="Greeting" Click="Button_Click" Margin="493,242,217,146"/>
+    </Grid>
+</Window>

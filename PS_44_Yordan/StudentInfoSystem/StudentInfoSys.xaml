@@ -1,0 +1,71 @@
+﻿<Window x:Class="StudentInfoSystem.StudentInfoSys"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInfoSystem"
+        mc:Ignorable="d"
+        Title="StudentInfoSys" Height="450" Width="800">
+    <Grid>
+        <GroupBox x:Name="groupBoxPersonalInfo_Copy" Header="Personal Date:" Margin="38,17,254,271" ScrollViewer.HorizontalScrollBarVisibility="Visible" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Center">
+            <Grid Margin="10,0,22,0" Height="134">
+                <Grid Margin="0,0,0,10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="265*"/>
+                        <ColumnDefinition Width="199*"/>
+                    </Grid.ColumnDefinitions>
+                    <Button Content="Logout" HorizontalAlignment="Left" Margin="73,56,0,0" VerticalAlignment="Top" Height="30" Width="97" Click="Button_Click_1" Grid.Column="1"/>
+                    <Button Click="Button_Login_Click" Content="Login" HorizontalAlignment="Left" Margin="73,18,0,0" VerticalAlignment="Top" Height="30" Width="98" Grid.Column="1"/>
+                    <Label Content="Име:" Margin="77,21,107,79"/>
+                    <Label Content="Презиме:" Margin="77,50,107,50"/>
+                    <Label Content="Фамилия:" Margin="77,72,107,28"/>
+                    <TextBox Text="{Binding FirstName, UpdateSourceTrigger=PropertyChanged}" x:Name="personalFirstName" HorizontalAlignment="Left" Margin="158,24,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged" Grid.ColumnSpan="2"/>
+                    <TextBox Text="{Binding SecondName, UpdateSourceTrigger=PropertyChanged}" x:Name="personalMiddleName" HorizontalAlignment="Left" Margin="158,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+                    <TextBox Text="{Binding FamiliyName, UpdateSourceTrigger=PropertyChanged}" x:Name="personalLastName" HorizontalAlignment="Left" Margin="158,76,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+                </Grid>
+
+            </Grid>
+
+        </GroupBox>
+        <GroupBox x:Name="groupBoxStudentInfo_Copy" Header="Student Info:" Margin="43,196,254,43" ScrollViewer.HorizontalScrollBarVisibility="Visible" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Center">
+            <Grid Margin="10,0,-2,1">
+                <TextBlock Text="{Binding Path= year}"  x:Name="StudentCourse" HorizontalAlignment="Left" Margin="337,15,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Height="19" IsEnabled="False"/>
+
+
+                <Grid Margin="0,0,10,10">
+                    <Label Content="Факултет:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="27" Width="74"/>
+                    <Label Content="Спец.:" HorizontalAlignment="Left" Margin="10,37,0,0" VerticalAlignment="Top" Height="25" Width="74"/>
+                    <Label Content="ОКС:" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top" Height="27" Width="74"/>
+                    <Label Content="Статус:" HorizontalAlignment="Left" Margin="10,89,0,0" VerticalAlignment="Top" Height="27" Width="74"/>
+                    <Label Content="Фак.номер:" HorizontalAlignment="Left" Margin="10,116,0,0" VerticalAlignment="Top" Height="27" Width="74"/>
+                    <Label Content="Курс:" HorizontalAlignment="Left" Margin="291,10,0,0" VerticalAlignment="Top" Height="27" Width="74"/>
+                    <Label Content="Поток:" HorizontalAlignment="Left" Margin="291,42,0,0" VerticalAlignment="Top" Height="27" Width="74"/>
+                    <Label Content="Група: " HorizontalAlignment="Left" Margin="291,76,0,0" VerticalAlignment="Top" Height="27" Width="74"/>
+                    <TextBlock Text="{Binding Path=stream}"  x:Name="StudentPotok" HorizontalAlignment="Left" Margin="337,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Height="19" IsEnabled="False"/>
+                    <TextBlock Text="{Binding Path=group}" x:Name="StudentGroup" HorizontalAlignment="Left" Margin="337,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="136" Height="19" IsEnabled="False"/>
+                    <TextBlock Text="{Binding Path=major}" x:Name="StudentMajor" HorizontalAlignment="Left" Margin="89,44,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" IsEnabled="False"/>
+                    <TextBlock Text="{Binding Path=degree}" x:Name="StudentOKS" HorizontalAlignment="Left" Margin="90,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" IsEnabled="False"/>
+                    <TextBlock Text="{Binding Path=status}" x:Name="StudentStatus" HorizontalAlignment="Left" Margin="89,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" IsEnabled="False"/>
+                    <TextBlock Text="{Binding Path=facNumber}" x:Name="StudentFacNum" HorizontalAlignment="Left" Margin="89,121,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" IsEnabled="False"/>
+                    <TextBlock Text="{Binding Path=faculty}" x:Name="studentFaculty" HorizontalAlignment="Left"  Margin="89,16,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" IsEnabled="False"/>
+                </Grid>
+
+            </Grid>
+
+        </GroupBox>
+        
+        <Calendar Margin="592,254,10,0" />
+
+        <Grid>
+            <Popup Name="myPopup" Placement="Center" IsOpen="False">
+                <Border Background="LightGray" Padding="10">
+                    <StackPanel>
+                        <Button Content="Close" Click="Close_Click" />
+                        <TextBlock Text="Welcome to Student info system!" TextAlignment="Center" />
+                    </StackPanel>
+                </Border>
+            </Popup>
+        </Grid>
+
+    </Grid>
+</Window>
